@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkr11&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkr11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshkr11" alt="ashutoshkr11" /></a> </p>
-
 - 🌱 I’m currently learning **Coding,Web developing and working on my BCA degree.**
 
 - 📫 How to reach me **ashutoshkr11272@gmail.com**
