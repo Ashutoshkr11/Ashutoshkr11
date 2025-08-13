@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkr11&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkr11" /> </p>
 
-- 🌱 I’m currently learning **Coding,Web developing and working on my BCA degree.**
 
 - 📫 How to reach me **ashutosh11work@gmail.com**
 
